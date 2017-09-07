@@ -26,7 +26,7 @@ files = "chapters"
 # 'slug' is an optional parameter (defaults to filename)
 
 [[post]]
-filename = "README.md"
-title = "Getting started"
-subtitle = "Read me first."
+filename = "Tufte.md"
+title = "Tufte CSS"
+subtitle = "A primer."
 
