@@ -1,7 +1,11 @@
 ##### INDEX PAGE ####
 
 title = "The Triumvirate of Agency"
-subtitle = "subtitle"
+subtitle = '''
+There is nothing new in this book
+
+Author: Tristram Oaten <o@tman.me>
+'''
 baseurl = ""
 
 #### PATHS ####
