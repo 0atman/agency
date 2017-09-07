@@ -1,8 +1,6 @@
 machine:
   services:
      - docker
-  pre:
-    - docker pull schollz/markdown2tufte
 
 deployment:
   production:
