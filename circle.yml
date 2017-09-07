@@ -1,0 +1,12 @@
+machine:
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - make
+      - git config --global user.email "circleci@example.com"
+      - git config --global user.name "Circle CI"
+      - git add -A .
+      - git commit --allow-empty --message "Generated site on $(date) [skip ci]"
+      - git push origin master
